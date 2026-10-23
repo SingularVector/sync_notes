@@ -8,7 +8,7 @@ This script automates the process of preparing Markdown notes for use with [Just
 
 It converts clean `.md` files from your working directories into fully formatted, YAML-front-matter–ready documents inside the `docs/` folder. It also builds a sidebar-compatible index and generates correct navigation metadata.
 
-I wrote this small script out of personal need to support my site [Terraforming My Career](https://pscustomobject.github.io/terraforming-my-career).
+I wrote this small script out of personal need to support my site [Terraforming My Career](https://singularvector.github.io/terraforming-my-career).
 It’s tailored for a specific workflow, so consider it more of an exercise than a general-purpose tool — but if you find any part of it useful, feel free to fork and adapt it to your needs!
 
 ---
